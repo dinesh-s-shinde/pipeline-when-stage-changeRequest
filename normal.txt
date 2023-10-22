@@ -1,1 +1,1 @@
-Some text in normal.txt file
+Some random number
